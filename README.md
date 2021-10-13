@@ -15,6 +15,10 @@
 [<img align="left" alt="youtube | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="twitter | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" target="_blank"/>][twitter]
 [<img align="left" alt="linkedin | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[website]: #
+[twitter]: https://twitter.com/SantaeugeniaJ
+[youtube]: #
+[linkedin]: https://www.linkedin.com/in/aitorjsantaeugenia/
 </div>
 <br />
 
@@ -29,7 +33,6 @@
 <img alt='JavaScript' src='https://img.shields.io/badge/-Javascript-F7DF1E?logo=javascript&logoColor=white&style=plastic' />
 <img alt='Jasmine' src='https://img.shields.io/badge/-Jasmine-8A4182?logo=jasmine&logoColor=white&style=plastic' />
 <br/>
-<br/>
 <img alt='NodeJS' src='https://img.shields.io/badge/-NodeJs-339933?logo=Nodejs&logoColor=white&style=plastic' />
 <img alt='ExpressJS' src='http://img.shields.io/badge/-Express-black?style=flat&logo=express&logoColor=white&style=plastic' />
 <img alt='NPM' src='https://img.shields.io/badge/-NPM-CB3837?style=flat&logo=npm&logoColor=white&style=plastic' />
@@ -41,4 +44,4 @@
 [twitter]: https://twitter.com/SantaeugeniaJ
 [youtube]: #
 [linkedin]: https://www.linkedin.com/in/aitorjsantaeugenia/
-  </div>
+</div>
