@@ -56,3 +56,9 @@
 
 ---
 
+![AitorSantaeugenia's GitHub stats](https://github-readme-stats.vercel.app/api?username=AitorSantaeugenia&show_icons=true&theme=radical)
+
+[![AitorSantaeugenia's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AitorSantaeugenia)](https://github.com/AitorSantaeugenia/github-readme-stats)
+
+
+
