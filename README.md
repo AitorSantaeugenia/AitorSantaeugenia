@@ -2,7 +2,7 @@
 <h1>Hi there <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">, I'm Aitor J. Santaeugenia - AKA dkn</h1> <!-- -  aka [codeSTACKr][website] --> 
 </div>
 
-### I'm a Computer Geek, Developer && Always a student, never a master.
+### I'm a Computer Geek, Developer & Always a student, never a master.
 
 - 📫 How to reach me: <a>aitorsantaeugenia@gmail.com</a> || <a href="https://github.com/AitorSantaeugenia/AitorSantaeugenia/issues/new">here</a>
 - 🔭 I’m currently working in a MERN fullstack IRT message app.
@@ -57,9 +57,6 @@
     <img align=top src="https://github-readme-stats.vercel.app/api/top-langs/?username=AitorSantaeugenia&layout=compact&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515"/>
     <img align=top src="https://github-readme-stats.vercel.app/api?username=AitorSantaeugenia&show_icons&theme=radical"/>
 <div>
-<!--
-![AitorSantaeugenia's GitHub stats](https://github-readme-stats.vercel.app/api?username=AitorSantaeugenia&show_icons=true&theme=radical)
-[![AitorSantaeugenia's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AitorSantaeugenia)](https://github.com/AitorSantaeugenia/github-readme-stats) -->
 
 
 
