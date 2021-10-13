@@ -1,4 +1,4 @@
-## Hi there 👋, I'm Aitor J. Santaeugenia - AKA dkn <!-- -  aka [codeSTACKr][website] --> 
+## Hi there <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">, I'm Aitor J. Santaeugenia - AKA dkn <!-- -  aka [codeSTACKr][website] --> 
 
 ### I'm a Computer Geek, Developer and a Forever Learner!!
 
