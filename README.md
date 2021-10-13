@@ -11,15 +11,15 @@
 - 🥅 2021 Goals: Improve my MERN & MEAN skills, build some awesome projects for fun.
 - ⚡ Fun fact: I love cats (and they love me) & I'm a movie buff. Also, I love pizza so much that people belives that I'm a mutant ninja turtle.
 
-### Connect with me:
 <div align="center">
+<h3><u>Connect with me</u></h3>
 <a href="https://www.linkedin.com/in/aitorjsantaeugenia/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://twitter.com/SantaeugeniaJ" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white" alt="Twitter"></a>
 </div>
 <br />
 
 <div align="center">
-  <h3> Languages and Tools:</h3>
+<h3><u>Languages and Tools</u></h3>
 <img alt='ReactJS' src='https://img.shields.io/badge/-ReactJS-51CBF2?style=flat&logo=react&logoColor=white' />
 <img alt='HTML5' src='https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=plastic' />
 <img alt='CSS3' src='https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=plastic' />
