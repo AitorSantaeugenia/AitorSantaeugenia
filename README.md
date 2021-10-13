@@ -42,6 +42,8 @@
   <img alt='MySQL' src='https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white' />
   <img alt='Unity' src='https://img.shields.io/badge/Unity-100000?style=flat&logo=unity&logoColor=white' />
 <img alt='Django' src='https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white' /> 
+<br/><br/>
+<img alt='CodeWars' src='https://www.codewars.com/users/AitorSantaeugenia/badges/large' />
 	
 [website]: #
 [twitter]: https://twitter.com/SantaeugeniaJ
