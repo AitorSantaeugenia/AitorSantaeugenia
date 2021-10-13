@@ -11,6 +11,8 @@
 - 🥅 2021 Goals: Improve my MERN & MEAN skills, build some awesome projects for fun.
 - ⚡ Fun fact: I love cats (and they love me) & I'm a movie buff. Also, I love pizza so much that people belives that I'm a mutant ninja turtle.
 
+---
+
 <div align="center">
 <h3><u>Connect with me</u></h3>
 <a href="https://www.linkedin.com/in/aitorjsantaeugenia/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
