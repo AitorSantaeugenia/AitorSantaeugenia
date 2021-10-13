@@ -56,8 +56,12 @@
 
 ---
 
-![AitorSantaeugenia's GitHub stats](https://github-readme-stats.vercel.app/api?username=AitorSantaeugenia&show_icons=true&theme=radical)
+<div align="center">
+    <img align=top src="https://github-readme-stats.vercel.app/api/top-langs/?username=AitorSantaeugenia&layout=compact&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515"/>
+    <img align=top src="https://github-readme-stats.vercel.app/api?username=AitorSantaeugenia&show_icons&theme=radical"/>
+<div>
 <!--
+![AitorSantaeugenia's GitHub stats](https://github-readme-stats.vercel.app/api?username=AitorSantaeugenia&show_icons=true&theme=radical)
 [![AitorSantaeugenia's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AitorSantaeugenia)](https://github.com/AitorSantaeugenia/github-readme-stats) -->
 
 
