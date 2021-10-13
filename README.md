@@ -18,8 +18,8 @@
 </div>
 <br />
 
-### Languages and Tools:
 <div align="center">
+  <h3> Languages and Tools:</h3>
 <img alt='ReactJS' src='https://img.shields.io/badge/-ReactJS-51CBF2?style=flat&logo=react&logoColor=white' />
 <img alt='HTML5' src='https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=plastic' />
 <img alt='CSS3' src='https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=plastic' />
