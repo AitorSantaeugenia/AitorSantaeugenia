@@ -2,7 +2,7 @@
 <h1>Hi there <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">, I'm Aitor J. Santaeugenia - AKA dkn</h1> <!-- -  aka [codeSTACKr][website] --> 
 </div>
 
-### I'm a Computer Geek, Developer | Always a student, never a master.
+### I'm a Computer Geek, Developer && Always a student, never a master.
 
 - 📫 How to reach me: <a>aitorsantaeugenia@gmail.com</a> || <a href="https://github.com/AitorSantaeugenia/AitorSantaeugenia/issues/new">here</a>
 - 🔭 I’m currently working in a MERN fullstack IRT message app.
