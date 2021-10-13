@@ -4,7 +4,7 @@
 
 ### I'm a Computer Geek, Developer and a Forever Learner!!
 
-- 📫 How to reach me: <b>aitorsantaeugenia@gmail.com</a> || <a href="https://github.com/AitorSantaeugenia/AitorSantaeugenia/issues/new"><b>here</b></a>
+- 📫 How to reach me: <b>aitorsantaeugenia@gmail.com</a> || <a href="https://github.com/AitorSantaeugenia/AitorSantaeugenia/issues/new">here</a>
 - 🔭 I’m currently working in MERN fullstack app.
 - 🌱 I’m currently learning MERN/MEAN Stack, NextJS, Python.. and everything that motivates me.
 - 👯 I’m looking to collaborate in any project. So please, get in touch with me.
