@@ -1,6 +1,6 @@
-### Hi there 👋, I'm Aitor J. Santaeugenia - AKA dkn <!-- -  aka [codeSTACKr][website] --> 
+## Hi there 👋, I'm Aitor J. Santaeugenia - AKA dkn <!-- -  aka [codeSTACKr][website] --> 
 
-## I'm a Computer Geek, Developer and a Forever Learner!!
+### I'm a Computer Geek, Developer and a Forever Learner!!
 
 - 📫 How to reach me: aitorsantaeugenia@gmail.com
 - 🔭 I’m currently working in projects to learn the MERN and MEAN stack
