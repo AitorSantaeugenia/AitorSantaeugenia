@@ -35,8 +35,19 @@
 <br/>
 <img alt='NPM' src='https://img.shields.io/badge/-NPM-CB3837?style=flat&logo=npm&logoColor=white&style=plastic' />
 <img alt='Cypress' src='https://img.shields.io/badge/-cypress-%23E5E5E5?style=flat&logo=cypress&logoColor=058a5e&style=plastic' />
+<img alt='Python' src='https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white' />
+<img alt='C#' src='https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white' />
+  <img alt='Heroku' src='https://img.shields.io/badge/Heroku-430098?style=flat&logo=heroku&logoColor=white' />
+<img alt='PHP' src='https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white' />
+  <img alt='MySQL' src='https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white' />
+  <img alt='Unity' src='https://img.shields.io/badge/Unity-100000?style=flat&logo=unity&logoColor=white' />
+<img alt='Django' src='https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white' />
+  
+  
 
-
+	
+  
+  
 [website]: #
 [twitter]: https://twitter.com/SantaeugeniaJ
 [youtube]: #
