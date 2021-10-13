@@ -5,9 +5,9 @@
 ### I'm a Computer Geek, Developer and a Forever Learner!!
 
 - 📫 How to reach me: <a>aitorsantaeugenia@gmail.com</a> || <a href="https://github.com/AitorSantaeugenia/AitorSantaeugenia/issues/new">here</a>
-- 🔭 I’m currently working in MERN fullstack app.
+- 🔭 I’m currently working in a MERN fullstack app.
 - 🌱 I’m currently learning MERN/MEAN Stack, NextJS, Python.. and everything that motivates me.
-- 👯 I’m looking to collaborate in any project. So please, get in touch with me.
+- 👯 I’m looking to collaborate in any project. So please, <u>get in touch with me</u>.
 - 🥅 2021 Goals: Improve my MERN & MEAN skills, build some awesome projects for fun.
 - ⚡ Fun fact: I love cats (and they love me) & I'm a movie buff. Also, I love pizza so much that people belives that I'm a mutant ninja turtle.
 
