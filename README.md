@@ -10,15 +10,16 @@
 - ⚡ Fun fact: I love cats (and they love me) & I'm a movie buff. Also, I love pizza so much that people belives that I'm a mutant ninja turtle.
 
 ### Connect with me:
-
+<div align="center">
 [<img align="left" alt="ownportfolio" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="youtube | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="twitter | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" target="_blank"/>][twitter]
 [<img align="left" alt="linkedin | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
+</div>
 <br />
 
 ### Languages and Tools:
+<div align="center">
 <img alt='ReactJS' src='https://img.shields.io/badge/-ReactJS-51CBF2?style=flat&logo=react&logoColor=white' />
 <img alt='HTML5' src='https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=plastic' />
 <img alt='CSS3' src='https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=plastic' />
@@ -34,7 +35,7 @@
 <img alt='NPM' src='https://img.shields.io/badge/-NPM-CB3837?style=flat&logo=npm&logoColor=white&style=plastic' />
 <img alt='MongoDB' src='http://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white&style=plastic' />
 <img alt='Cypress' src='https://img.shields.io/badge/-cypress-%23E5E5E5?style=flat&logo=cypress&logoColor=058a5e&style=plastic' />
-
+</div>
 [website]: #
 [twitter]: https://twitter.com/SantaeugeniaJ
 [youtube]: #
