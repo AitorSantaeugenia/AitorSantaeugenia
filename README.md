@@ -5,7 +5,7 @@
 ### I'm a Computer Geek, Developer & Always a student, never a master.
 
 - 📫 How to reach me: <a>aitorsantaeugenia@gmail.com</a> || <a href="https://github.com/AitorSantaeugenia/AitorSantaeugenia/issues/new">here</a>
-- 🔭 I’m currently working in a MERN fullstack IRT message app.
+- 🔭 I’m currently working in a fullstack IRT message MERN app.
 - 🌱 I’m currently learning MERN/MEAN Stack, NextJS, Python.. and everything that motivates me.
 - 👯 I’m looking to collaborate in any project. So please, get in touch with me.
 - 🥅 2021 Goals: Improve my MERN & MEAN skills, build some awesome projects for fun.
