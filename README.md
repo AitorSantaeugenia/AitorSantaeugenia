@@ -44,6 +44,9 @@
 <img alt='Django' src='https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white' /> 
 <br/><br/>
 <img alt='CodeWars' src='https://www.codewars.com/users/AitorSantaeugenia/badges/large' />
+<div align="center">	
+<img alt='Ironhack' src='https://i.imgur.com/qq7wMW4.png' style="width:100px" />
+</div>
 	
 [website]: #
 [twitter]: https://twitter.com/SantaeugeniaJ
@@ -57,6 +60,7 @@
     <img align=top src="https://github-readme-stats.vercel.app/api/top-langs/?username=AitorSantaeugenia&layout=compact&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515"/>
     <img align=top src="https://github-readme-stats.vercel.app/api?username=AitorSantaeugenia&show_icons&theme=radical"/>
 <div>
+
 
 
 
