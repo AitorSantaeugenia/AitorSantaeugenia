@@ -1,5 +1,5 @@
 <div align="center">
-<h1>Hi there <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">, I'm Aitor J. Santaeugenia - AKA dkn</h1> <!-- -  aka [codeSTACKr][website] --> 
+<h1>Hi there <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">, I'm Aitor J. Santaeugenia - AKA dkn</h1>
 </div>
 
 ### I'm a Computer Geek, Developer & Always a student, never a master.
