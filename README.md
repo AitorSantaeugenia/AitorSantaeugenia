@@ -2,8 +2,8 @@
 <h1>Hi there <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">, I'm Aitor J. Santaeugenia - AKA dkn</h1>
 </div>
 
-### I'm a Computer Geek, Developer & Always a student, never a master.
-
+### I'm a Fullstack Developer, a computer geek & always a student, never a master.
+![](https://komarev.com/ghpvc/?username=AitorSantaeugenia&label=PROFILE+VIEWS&color=blueviolet)
 - 📫 How to reach me: <a>aitorsantaeugenia@gmail.com</a> || <a href="https://github.com/AitorSantaeugenia/AitorSantaeugenia/issues/new">here</a>
 - 🔭 I’m currently working in a fullstack IRT message MERN app.
 - 🌱 I’m currently learning MERN/MEAN Stack, NextJS, Python.. and everything that motivates me.
@@ -12,7 +12,6 @@
 - ⚡ Fun fact: I love cats (and they love me) & I'm a movie buff. Also, I love pizza so much that people belives that I'm a mutant ninja turtle.
 
 ---
-
 <div align="center">
 <h3><u>Connect with me</u></h3>
 <a href="https://www.linkedin.com/in/aitorjsantaeugenia/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
@@ -20,7 +19,7 @@
 </div>
 
 <div align="center">
-<h3><u>Languages and Tools</u></h3>
+<h3><u>Languages, Tools & Utilities</u></h3>
 <img alt='ReactJS' src='https://img.shields.io/badge/-ReactJS-51CBF2?style=flat&logo=react&logoColor=white' />
 <img alt='NodeJS' src='https://img.shields.io/badge/-NodeJs-339933?logo=Nodejs&logoColor=white&style=plastic' />
 <img alt='ExpressJS' src='http://img.shields.io/badge/-Express-black?style=flat&logo=express&logoColor=white&style=plastic' />
@@ -37,11 +36,18 @@
 <img alt='Cypress' src='https://img.shields.io/badge/-cypress-%23E5E5E5?style=flat&logo=cypress&logoColor=058a5e&style=plastic' />
 <img alt='Python' src='https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white' />
 <img alt='C#' src='https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white' />
-  <img alt='Heroku' src='https://img.shields.io/badge/Heroku-430098?style=flat&logo=heroku&logoColor=white' />
+<img alt='Heroku' src='https://img.shields.io/badge/Heroku-430098?style=flat&logo=heroku&logoColor=white' />
 <img alt='PHP' src='https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white' />
-  <img alt='MySQL' src='https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white' />
-  <img alt='Unity' src='https://img.shields.io/badge/Unity-100000?style=flat&logo=unity&logoColor=white' />
+<img alt='MySQL' src='https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white' />
+<img alt='Unity' src='https://img.shields.io/badge/Unity-100000?style=flat&logo=unity&logoColor=white' />
 <img alt='Django' src='https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white' /> 
+<img alt='Git' src='https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=plastic' />
+<img alt='GitHub' src='https://img.shields.io/badge/-Github-181717?style=flat&logo=github&logoColor=white&style=plastic' />
+<img alt='Slack' src='https://img.shields.io/badge/-Slack-4A154B?style=flat&logo=slack&logoColor=white&style=plastic' />
+<img alt='Postman' src='https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white&style=plastic' />
+<img alt='MongoCompass' src='http://img.shields.io/badge/-MongoCompass-47A248?style=flat&logo=mongodb&logoColor=white&style=plastic' />
+<img alt='VSCode' src='https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white&style=plastic' />
+<img alt='Visual Studio' src='https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white&style=plastic' />
 <br/><br/>
 <img alt='CodeWars' src='https://www.codewars.com/users/AitorSantaeugenia/badges/large' />
 <div align="center">	
