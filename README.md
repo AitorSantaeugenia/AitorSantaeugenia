@@ -1,9 +1,10 @@
+
 <div align="center">
 <h1>Hi there <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">, I'm Aitor J. Santaeugenia - AKA darkstein</h1>
+<img alt='Profile views' src="https://komarev.com/ghpvc/?username=AitorSantaeugenia&label=PROFILE+VIEWS&color=blueviolet"/>
 </div>
 
 ### I'm a Fullstack Developer, a computer geek & always a student, never a master.
-![](https://komarev.com/ghpvc/?username=AitorSantaeugenia&label=PROFILE+VIEWS&color=blueviolet)
 - 📫 How to reach me: <a>aitorsantaeugenia@gmail.com</a> || <a href="https://github.com/AitorSantaeugenia/AitorSantaeugenia/issues/new">here</a>
 - 🔭 I’m currently working in a fullstack IRT message MERN app.
 - 🌱 I’m currently learning MERN/MEAN Stack, NextJS, Python.. and everything that motivates me.
