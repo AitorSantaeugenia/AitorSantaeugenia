@@ -1,6 +1,6 @@
 
 <div align="center">
-<h2>Hi there <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">, I'm Aitor J. Santaeugenia </h2>
+<h1>Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">, I'm Aitor J. Santaeugenia </h1>
 <img alt='Profile views' src="https://komarev.com/ghpvc/?username=AitorSantaeugenia&label=PROFILE+VIEWS&color=blueviolet"/>
 </div>
 
@@ -23,7 +23,7 @@
 </div>
 
 <div align="center">
-<h3><u>🛠 Tools, Utilities & miscellanea</u></h3>
+<h3><u>🛠 Tools, utilities & miscellanea</u></h3>
 <img alt='ReactJS' src='https://img.shields.io/badge/-ReactJS-51CBF2?style=flat&logo=react&logoColor=white' />
 <img alt='NodeJS' src='https://img.shields.io/badge/-NodeJs-339933?logo=Nodejs&logoColor=white&style=plastic' />
 <img alt='ExpressJS' src='http://img.shields.io/badge/-Express-black?style=flat&logo=express&logoColor=white&style=plastic' />
