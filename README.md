@@ -4,7 +4,7 @@
 <img alt='Profile views' src="https://komarev.com/ghpvc/?username=AitorSantaeugenia&label=PROFILE+VIEWS&color=blueviolet"/>
 </div>
 
-### I'm a Fullstack Developer, a computer geek & always a student, never a master.
+### I'm a Fullstack Developer & a computer geek.
 - 📫 How to reach me: <a>aitorsantaeugenia@gmail.com</a> || <a href="https://github.com/AitorSantaeugenia/AitorSantaeugenia/issues/new">here</a>
 - 🔭 I’m currently studying and looking for work.
 - 🌱 I’m currently learning MERN/MEAN Stack, NextJS, Python.. and everything that motivates me.
