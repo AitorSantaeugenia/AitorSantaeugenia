@@ -40,8 +40,6 @@
 <img alt='C#' src='https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white' />
 <img alt='Heroku' src='https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white' />
 <img alt='PHP' src='https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white' />
-<img alt='MySQL' src='https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white' />
-<img alt='Django' src='https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white' /> 
 <br/>
 <img alt='Canvas' src='https://img.shields.io/badge/-Canvas-E05F2C?style=for-the-badge&logo=canvas&logoColor=white' />
 <img alt='Unity' src='https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white' />
@@ -52,6 +50,8 @@
 <img alt='MongoCompass' src='http://img.shields.io/badge/-MongoCompass-47A248?style=for-the-badge&logo=mongodb&logoColor=white' />
 <img alt='VSCode' src='https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white' />
 <img alt='Visual Studio' src='https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white' />
+<img alt='MySQL' src='https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white' />
+<img alt='Django' src='https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white' /> 
 <br/><br/>
 <img alt='CodeWars' src='https://www.codewars.com/users/AitorSantaeugenia/badges/large' />
 <div align="center">	
