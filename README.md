@@ -17,13 +17,13 @@
 
 ---
 <div align="center">
-<h3><u>👨🏻‍💻 Connect with me</u></h3>
+<h2><u>👨🏻‍💻 Connect with me</u></h2>
 <a href="https://www.linkedin.com/in/aitorjsantaeugenia/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://twitter.com/SantaeugeniaJ" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
 </div>
 
 <div align="center">
-<h3><u>🛠 Tools, utilities & miscellanea</u></h3>
+<h2><u>🛠 Tools, utilities & miscellanea</u></h2>
 <img alt='ReactJS' src='https://img.shields.io/badge/-ReactJS-51CBF2?style=for-the-badge&logo=react&logoColor=white' />
 <img alt='NodeJS' src='https://img.shields.io/badge/-NodeJs-339933?style=for-the-badge&logo=Nodejs&logoColor=white' />
 <img alt='ExpressJS' src='http://img.shields.io/badge/-Express-black?style=for-the-badge&logo=express&logoColor=white' />
