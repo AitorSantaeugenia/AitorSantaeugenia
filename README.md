@@ -18,9 +18,9 @@
 ---
 <div align="center">
 <h2><u>👨🏻‍💻 Connect with me</u></h2>
-<a href="https://www.linkedin.com/in/aitorjsantaeugenia/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://twitter.com/SantaeugeniaJ" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
-<a href="https://codepen.io/santaeugeniaJ" target="_blank"><img src="https://img.shields.io/badge/Codepen-%23131417.svg?&style=for-the-badge&logo=codepen&logoColor=white" alt="Codepen"></a>
+<a href="https://www.linkedin.com/in/aitorjsantaeugenia/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" target="_blank"></a>
+<a href="https://twitter.com/SantaeugeniaJ" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" target="_blank"></a>
+<a href="https://codepen.io/santaeugeniaJ" target="_blank"><img src="https://img.shields.io/badge/Codepen-%23131417.svg?&style=for-the-badge&logo=codepen&logoColor=white" alt="Codepen" target="_blank"></a>
 </div>
 
 <div align="center">
