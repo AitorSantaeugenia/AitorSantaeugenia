@@ -13,7 +13,7 @@
 
 ### I'm a Fullstack Developer & a computer geek.
 - 📫 How to reach me: <a>aitorsantaeugenia@gmail.com</a> || <a href="https://github.com/AitorSantaeugenia/AitorSantaeugenia/issues/new">here</a>
-- 🔭 I’m currently studying and looking for work.
+- 🔭 I’m currently studying and looking for a job.
 - 🌱 I’m learning MERN/MEAN/PERN Stack and other technologies like NextJS, Python.. everything that motivates me.
 - 👯 I’m looking to collaborate in any project. So please, get in touch with me.
 - 🥅 2021 Goals: Improve my MERN & MEAN skills, build some awesome projects for fun.
