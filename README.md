@@ -34,9 +34,9 @@
 <img alt='Sass' src="https://img.shields.io/badge/-Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
 <img alt='Bootstrap' src='https://img.shields.io/badge/-Bootsrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white' />
 <img alt='JavaScript' src='https://img.shields.io/badge/-Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white' />
-<img alt='Jasmine' src='https://img.shields.io/badge/-Jasmine-8A4182?style=for-the-badge&logo=jasmine&logoColor=white' />
+<!-- <img alt='Jasmine' src='https://img.shields.io/badge/-Jasmine-8A4182?style=for-the-badge&logo=jasmine&logoColor=white' />
 <img alt='NPM' src='https://img.shields.io/badge/-NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white' />
-<img alt='Cypress' src='https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e' />
+<img alt='Cypress' src='https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e' /> -->
 <img alt='Python' src='https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white' />
 <img alt='C#' src='https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white' />
 <img alt='Heroku' src='https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white' />
