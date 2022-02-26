@@ -4,6 +4,13 @@
 
 </div>
 
+<div align="center">
+<a href="https://www.linkedin.com/in/aitorjsantaeugenia/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://codepen.io/santaeugeniaJ" target="_blank"><img src="https://img.shields.io/badge/Codepen-%23131417.svg?&style=for-the-badge&logo=codepen&logoColor=white" alt="Codepen"></a>
+<a href="https://twitter.com/SantaeugeniaJ" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
+
+</div>
+
 ### I'm a Fullstack Developer & a computer geek.
 - 📫 How to reach me: <a>aitorsantaeugenia@gmail.com</a> || <a href="https://github.com/AitorSantaeugenia/AitorSantaeugenia/issues/new">here</a>
 - 🔭 I’m currently studying and looking for work.
@@ -16,15 +23,9 @@
 &nbsp;&nbsp;&nbsp;&nbsp; 💪 Give me a redbull and I conquer the code.
 
 ---
-<div align="center">
-<h2><u>👨🏻‍💻 Connect with me</u></h2>
-<a href="https://www.linkedin.com/in/aitorjsantaeugenia/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://twitter.com/SantaeugeniaJ" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
-<a href="https://codepen.io/santaeugeniaJ" target="_blank"><img src="https://img.shields.io/badge/Codepen-%23131417.svg?&style=for-the-badge&logo=codepen&logoColor=white" alt="Codepen"></a>
-</div>
+
 
 <div align="center">
-<h2><u>🛠 Tools, utilities & miscellanea</u></h2>
 <img alt='JavaScript' src='https://img.shields.io/badge/-Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white' />
 <img alt='ReactJS' src='https://img.shields.io/badge/-ReactJS-51CBF2?style=for-the-badge&logo=react&logoColor=white' />
 <img alt='NodeJS' src='https://img.shields.io/badge/-NodeJs-339933?style=for-the-badge&logo=Nodejs&logoColor=white' />
@@ -59,9 +60,8 @@
 <br/>
 <!-- <img alt='CodeWars' src='https://www.codewars.com/users/AitorSantaeugenia/badges/large' /> -->
 <div align="center">	
-<img alt='Ironhack' src='https://i.imgur.com/qq7wMW4.png' style="width:100px" />
-</div>
-	
+<img alt='Ironhack' src='https://i.imgur.com/qq7wMW4.png' style="width:90px" />
+
 [website]: #
 [twitter]: https://twitter.com/SantaeugeniaJ
 [youtube]: #
@@ -72,7 +72,7 @@
 
 <div align="center">
     <img width="273rem" align=top src="https://github-readme-stats.vercel.app/api/top-langs/?username=AitorSantaeugenia&layout=compact&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515"/>
-    <img width="328rem" align=top src="https://github-readme-stats.vercel.app/api?username=AitorSantaeugenia&show_icons&theme=radical"/>
+    <img width="326rem" align=top src="https://github-readme-stats.vercel.app/api?username=AitorSantaeugenia&show_icons&theme=radical"/>
 <div>
 	
 ---
