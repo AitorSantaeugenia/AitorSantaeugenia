@@ -16,7 +16,7 @@
 - 🔭 I’m currently studying and looking for a job.
 - 🌱 I’m learning MERN/MEAN/PERN Stack and other technologies like NextJS, Python.. everything that motivates me.
 - 👯 I’m looking to collaborate in any project. So please, get in touch with me.
-- 🥅 2021 Goals: Improve my MERN & MEAN skills, build some awesome projects for fun.
+- 🥅 2022 Goals: Improve my REACT skills, build some awesome projects for fun & land a job.
 - ⚡ Fun facts: <br/>
 &nbsp;&nbsp;&nbsp;&nbsp; 🐱 I love cats (and they love me) & 🎥 I'm a movie buff. <br/>
 &nbsp;&nbsp;&nbsp;&nbsp; 🍕 I love pizza so much that people belives that I'm a mutant ninja turtle. <br/>
