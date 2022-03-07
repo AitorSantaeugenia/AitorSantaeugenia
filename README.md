@@ -78,7 +78,7 @@
 ---
 	
 <img alt='Profile views' src="https://komarev.com/ghpvc/?username=AitorSantaeugenia&label=PROFILE+VIEWS&color=blueviolet"/>
-<img alt='CodeWars' src='https://www.codewars.com/users/AitorSantaeugenia/badges/micro' />
+<img alt='CodeWars' src='https://www.codewars.com/users/Santaeugenia/badges/micro' />
 
 
 
