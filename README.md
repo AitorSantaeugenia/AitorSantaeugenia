@@ -1,6 +1,6 @@
 
 <div align="center">
-<h1>Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">, I'm Aitor J. Santaeugenia </h1>
+<h1>Hi, I'm Aitor J. Santaeugenia </h1>
 
 </div>
 
