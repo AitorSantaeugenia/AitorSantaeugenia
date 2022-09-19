@@ -14,7 +14,7 @@
 <div>
 <div>
 
-<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/14861253/190976945-c6faac71-0195-448d-ad82-247ae24d0169.gif" width="450"/>
+<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/14861253/190976945-c6faac71-0195-448d-ad82-247ae24d0169.gif" width="400"/>
 </div>
 
 <div>
