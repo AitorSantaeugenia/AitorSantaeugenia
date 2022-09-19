@@ -11,15 +11,19 @@
 
 </div>
 
+---
 <div>
+	
 <div>
 
 <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/14861253/190976945-c6faac71-0195-448d-ad82-247ae24d0169.gif" width="400"/>
 </div>
+	
+<h2>I'm a Fullstack Developer & a computer geek.</h2>
 
 <div>
 
-### I'm a Fullstack Developer & a computer geek.
+
 - 📫 How to reach me: <a>aitorsantaeugenia@gmail.com</a> || <a href="https://github.com/AitorSantaeugenia/AitorSantaeugenia/issues/new">here</a>
 - 🌱 MERN stack, Redux and NextJS.. & everything that motivates me.
 - 🔭 Looking for a job.
