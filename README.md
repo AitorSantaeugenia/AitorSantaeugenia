@@ -1,26 +1,38 @@
 
 <div align="center">
 <h1>Hi, I'm Aitor J. Santaeugenia </h1>
-
 </div>
 
 <div align="center">
+
 <a href="https://www.linkedin.com/in/aitorjsantaeugenia/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://codepen.io/santaeugeniaJ" target="_blank"><img src="https://img.shields.io/badge/Codepen-%23131417.svg?&style=for-the-badge&logo=codepen&logoColor=white" alt="Codepen"></a>
 <a href="https://twitter.com/SantaeugeniaJ" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
 
 </div>
 
+<div>
+<div>
+
+<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/14861253/190976945-c6faac71-0195-448d-ad82-247ae24d0169.gif" width="450"/>
+</div>
+
+<div>
+
 ### I'm a Fullstack Developer & a computer geek.
 - 📫 How to reach me: <a>aitorsantaeugenia@gmail.com</a> || <a href="https://github.com/AitorSantaeugenia/AitorSantaeugenia/issues/new">here</a>
-- 🔭 I’m currently studying and looking for a job.
-- 🌱 I’m learning MERN/MEAN/PERN Stack and other technologies like NextJS, Python.. everything that motivates me.
-- 👯 I’m looking to collaborate in any project. So please, get in touch with me.
-- 🥅 2022 Goals: Improve my REACT skills, build some awesome projects for fun & land a job.
+- 🌱 MERN stack, GraphQL and NextJS.. & everything that motivates me.
+- 🔭 Looking for a job.
+- 👯 I’m looking to collaborate in any project.
+- 🥅 2022 Goals: Improve my REACT skills, build some fun projects, learn & land a job.
 - ⚡ Fun facts: <br/>
 &nbsp;&nbsp;&nbsp;&nbsp; 🐱 I love cats (and they love me) & 🎥 I'm a movie buff. <br/>
+&nbsp;&nbsp;&nbsp;&nbsp; 📺 Futurama > everything else. <br/>
 &nbsp;&nbsp;&nbsp;&nbsp; 🍕 I love pizza so much that people belives that I'm a mutant ninja turtle. <br/>
 &nbsp;&nbsp;&nbsp;&nbsp; 💪 Give me a redbull and I conquer the code.
+
+</div>
+</div>
 
 ---
 
