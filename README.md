@@ -21,10 +21,10 @@
 
 ### I'm a Fullstack Developer & a computer geek.
 - 📫 How to reach me: <a>aitorsantaeugenia@gmail.com</a> || <a href="https://github.com/AitorSantaeugenia/AitorSantaeugenia/issues/new">here</a>
-- 🌱 MERN stack, GraphQL, Redux, NextJS.. & everything that motivates me.
+- 🌱 MERN stack, Redux and NextJS.. & everything that motivates me.
 - 🔭 Looking for a job.
 - 👯 I’m looking to collaborate in any project.
-- 🥅 2022 Goals: Improve my REACT skills, build some fun projects, learn & land a job.
+- 🥅 2022 goals: Improve my REACT skills, build some fun projects & learn++.
 - ⚡ Fun facts: <br/>
 &nbsp;&nbsp;&nbsp;&nbsp; 🐱 I love cats (and they love me) & 🎥 I'm a movie buff. <br/>
 &nbsp;&nbsp;&nbsp;&nbsp; 📺 Futurama > everything else. <br/>
