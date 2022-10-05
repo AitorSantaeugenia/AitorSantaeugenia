@@ -89,13 +89,16 @@
 </div>
 
 ---
+<!-- 
 
 <div align="center">
     <img width="273rem" align=top src="https://github-readme-stats.vercel.app/api/top-langs/?username=AitorSantaeugenia&layout=compact&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515"/>
     <img width="326rem" align=top src="https://github-readme-stats.vercel.app/api?username=AitorSantaeugenia&show_icons&theme=radical"/>
 <div>
-	
+
 ---
+
+-->
 	
 <img alt='Profile views' src="https://komarev.com/ghpvc/?username=AitorSantaeugenia&label=PROFILE+VIEWS&color=blueviolet"/>
 <img alt='CodeWars' src='https://www.codewars.com/users/Santaeugenia/badges/micro' />
