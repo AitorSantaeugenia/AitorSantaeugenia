@@ -27,21 +27,20 @@
 
 <div>
 
-
 - 📫 How to reach me: <a>aitorsantaeugenia@gmail.com</a> || <a href="https://github.com/AitorSantaeugenia/AitorSantaeugenia/issues/new">here</a>
 - 🌱 MERN stack, Redux and NextJS.. & everything that motivates me.
 - 🔭 Looking for a job.
 - 👯 I’m looking to collaborate in any project.
-- 🥅 2023 goals:  <br/>
-&nbsp;&nbsp;&nbsp;&nbsp; · Improve my ReactJS, NextJS, AngularJS skills and learn other technologies. <br/>
-&nbsp;&nbsp;&nbsp;&nbsp; · Clone Whatsapp, Instagram, Twitter, Netflix and some other for fun projects. <br/>
-&nbsp;&nbsp;&nbsp;&nbsp; · Finish FCC bootcamp, fullstackopen and other programs.<br/>
-&nbsp;&nbsp;&nbsp;&nbsp; · Get a good job where you can learn & improve daily.
 - ⚡ Fun facts: <br/>
 &nbsp;&nbsp;&nbsp;&nbsp; 🐱 I love cats (and they love me) & 🎥 I'm a movie buff. <br/>
 &nbsp;&nbsp;&nbsp;&nbsp; 📺 Futurama > everything else. <br/>
 &nbsp;&nbsp;&nbsp;&nbsp; 🍕 I love pizza so much that people belives that I'm a mutant ninja turtle. <br/>
 &nbsp;&nbsp;&nbsp;&nbsp; 💪 Give me a redbull and I conquer the code.
+- 🥅 2023 goals:  <br/>
+&nbsp;&nbsp;&nbsp;&nbsp; · Improve my ReactJS, NextJS, AngularJS skills and learn other technologies. <br/>
+&nbsp;&nbsp;&nbsp;&nbsp; · Clone Whatsapp, Instagram, Twitter, Netflix and some other for fun projects. <br/>
+&nbsp;&nbsp;&nbsp;&nbsp; · Finish FCC bootcamp, fullstackopen and other programs.<br/>
+&nbsp;&nbsp;&nbsp;&nbsp; · Get a good job where you can learn & improve daily.
 
 </div>
 </div>
