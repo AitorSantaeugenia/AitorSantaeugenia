@@ -38,7 +38,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp; 💪 Give me a redbull and I conquer the code.
 - 🥅 2023 goals:  <br/>
 &nbsp;&nbsp;&nbsp;&nbsp; · Improve my ReactJS, NextJS, AngularJS skills and learn other technologies. <br/>
-&nbsp;&nbsp;&nbsp;&nbsp; · Clone Whatsapp, Instagram, Twitter, Netflix and some other for fun projects. <br/>
+&nbsp;&nbsp;&nbsp;&nbsp; · Clone Whatsapp, Instagram, Twitter, ~~Netflix~~ and some other for fun projects. <br/>
 &nbsp;&nbsp;&nbsp;&nbsp; · Finish FCC bootcamp, fullstackopen and other programs.<br/>
 &nbsp;&nbsp;&nbsp;&nbsp; · Get a good job where you can learn & improve daily.
 
