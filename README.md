@@ -32,7 +32,11 @@
 - 🌱 MERN stack, Redux and NextJS.. & everything that motivates me.
 - 🔭 Looking for a job.
 - 👯 I’m looking to collaborate in any project.
-- 🥅 2022 goals: Improve my REACT skills, build some fun projects & learn++.
+- 🥅 2023 goals:  <br/>
+&nbsp;&nbsp;&nbsp;&nbsp; · Improve my ReactJS, NextJS, AngularJS skills and learn other technologies. <br/>
+&nbsp;&nbsp;&nbsp;&nbsp; · Clone Whatsapp, Instagram, Twitter, Netflix and some other for fun projects.
+&nbsp;&nbsp;&nbsp;&nbsp; · Finish FCC bootcamp, fullstackopen and other programs.<br/>
+&nbsp;&nbsp;&nbsp;&nbsp; · Get a good job where you can learn & improve daily.
 - ⚡ Fun facts: <br/>
 &nbsp;&nbsp;&nbsp;&nbsp; 🐱 I love cats (and they love me) & 🎥 I'm a movie buff. <br/>
 &nbsp;&nbsp;&nbsp;&nbsp; 📺 Futurama > everything else. <br/>
@@ -79,16 +83,12 @@
 
 ---
 
-<!-- 
-
 <div align="center">
     <img width="273rem" align=top src="https://github-readme-stats.vercel.app/api/top-langs/?username=AitorSantaeugenia&layout=compact&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515"/>
     <img width="326rem" align=top src="https://github-readme-stats.vercel.app/api?username=AitorSantaeugenia&show_icons&theme=radical"/>
 <div>
 
 ---
-
--->
 	
 <img alt='Profile views' src="https://komarev.com/ghpvc/?username=AitorSantaeugenia&label=PROFILE+VIEWS&color=blueviolet"/>
 <img alt='CodeWars' src='https://www.codewars.com/users/Santaeugenia/badges/micro' />
