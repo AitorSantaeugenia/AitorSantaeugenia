@@ -33,14 +33,14 @@
 - 👯 I’m looking to collaborate in any project.
 - ⚡ Fun facts: <br/>
 &nbsp;&nbsp;&nbsp;&nbsp; 🐱 I love cats (and they love me) & 🎥 I'm a movie buff. <br/>
-&nbsp;&nbsp;&nbsp;&nbsp; 📺 Futurama > everything else. <br/>
-&nbsp;&nbsp;&nbsp;&nbsp; 🍕 I love pizza so much that people belives that I'm a mutant ninja turtle. <br/>
+&nbsp;&nbsp;&nbsp;&nbsp; 📺 Futurama > all. <br/>
+&nbsp;&nbsp;&nbsp;&nbsp; 🍕 I love pizza, I'm the 5º mutant ninja turtle. <br/>
 &nbsp;&nbsp;&nbsp;&nbsp; 💪 Give me a redbull and I conquer the code.
 - 🥅 2023 goals:  <br/>
-&nbsp;&nbsp;&nbsp;&nbsp; · Improve my ReactJS, NextJS, AngularJS skills and learn other technologies. <br/>
-&nbsp;&nbsp;&nbsp;&nbsp; · Clone Whatsapp, Instagram, Twitter, ~~Netflix~~ and some other for fun projects. <br/>
-&nbsp;&nbsp;&nbsp;&nbsp; · Finish FCC bootcamp, fullstackopen and other programs.<br/>
-&nbsp;&nbsp;&nbsp;&nbsp; · Get a good job where you can learn & improve daily.
+&nbsp;&nbsp;&nbsp;&nbsp; · Improve my React, Next, Angular, Redux skills & other technologies. <br/>
+&nbsp;&nbsp;&nbsp;&nbsp; · Clone Whatsapp, Instagram, Twitter, ~~Netflix~~ and other for fun projects. <br/>
+&nbsp;&nbsp;&nbsp;&nbsp; · Finish FCC bootcamp, fullstackopen and other programs. Keep learning everything from everyone I meet.<br/>
+&nbsp;&nbsp;&nbsp;&nbsp; · Get a job where you can learn & improve daily.
 
 </div>
 </div>
