@@ -12,17 +12,13 @@
 
 ---
 <div>
-
 <div align="center">
 <h2>I'm a Fullstack Developer & a computer geek.</h2>
 </div>
 
 <div>
-
 <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/14861253/190976945-c6faac71-0195-448d-ad82-247ae24d0169.gif" width="400"/>
 </div>
-	
-
 
 <div>
 
@@ -46,7 +42,6 @@
 
 ---
 
-
 <div align="center">
 <img alt='JavaScript' src='https://img.shields.io/badge/-Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white' />
 <img alt='ReactJS' src='https://img.shields.io/badge/-ReactJS-61DAFB?style=for-the-badge&logo=react&logoColor=white' />
@@ -67,7 +62,6 @@
 <img alt='GitHub' src='https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=github&logoColor=white' />
 <img alt='Postman' src='https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white' />
 
-<!-- <img alt='Django' src='https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white' /> -->
 <br/>
 
 <div align="center">	
@@ -81,13 +75,13 @@
 
 ---
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=aitorsantaeugenia&theme=radical)](https://git.io/streak-stats)
+
 <div align="center">
     <img width="273rem" align=top src="https://github-readme-stats.vercel.app/api/top-langs/?username=AitorSantaeugenia&layout=compact&show_icons=true&theme=radical"/>
     <img width="326rem" align=top src="https://github-readme-stats.vercel.app/api?username=AitorSantaeugenia&show_icons&theme=radical"/>
 <div>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=aitorsantaeugenia&theme=radical)](https://git.io/streak-stats)
-		
 ---
 
 <img alt='Profile views' src="https://komarev.com/ghpvc/?username=AitorSantaeugenia&label=PROFILE+VIEWS&color=blueviolet"/>
