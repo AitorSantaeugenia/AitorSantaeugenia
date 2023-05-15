@@ -79,7 +79,7 @@
 [linkedin]: https://www.linkedin.com/in/aitorjsantaeugenia/
 </div>
 
-<!--
+
 
 ---
 
@@ -90,7 +90,9 @@
 
 ---
 
--->
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=aitorsantaeugenia&theme=radical)](https://git.io/streak-stats)
+		
+---
 
 <img alt='Profile views' src="https://komarev.com/ghpvc/?username=AitorSantaeugenia&label=PROFILE+VIEWS&color=blueviolet"/>
 <img alt='CodeWars' src='https://www.codewars.com/users/Santaeugenia/badges/micro' />
