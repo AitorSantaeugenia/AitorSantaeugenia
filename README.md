@@ -75,7 +75,7 @@
 
 ---
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=aitorsantaeugenia&theme=radical)](https://git.io/streak-stats)
+<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=aitorsantaeugenia&theme=radical)](https://git.io/streak-stats) -->
 
 <div align="center">
     <img width="273rem" align=top src="https://github-readme-stats.vercel.app/api/top-langs/?username=AitorSantaeugenia&layout=compact&show_icons=true&theme=radical"/>
