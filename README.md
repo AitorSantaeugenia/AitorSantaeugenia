@@ -35,7 +35,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp; · Improve my React, Next, Angular, Redux skills & other technologies. <br/>
 &nbsp;&nbsp;&nbsp;&nbsp; · Clone Whatsapp, Instagram, Twitter, ~~Netflix~~ and other for fun projects. <br/>
 &nbsp;&nbsp;&nbsp;&nbsp; · Finish FCC bootcamp, fullstackopen and other programs. Keep learning everything from everyone I meet.<br/>
-&nbsp;&nbsp;&nbsp;&nbsp; · Get a job where you can learn & improve daily.
+&nbsp;&nbsp;&nbsp;&nbsp; · Find a job where you can learn & improve daily.
 
 </div>
 </div>
