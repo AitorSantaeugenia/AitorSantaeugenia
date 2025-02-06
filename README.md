@@ -25,8 +25,6 @@
 - 👯 I’m looking to collaborate in any project.<br>
 - 🐱 I love cats and 🍕 pizza & 🎥 I'm a movie buff.<br>
 <br><br>
-- +1200 CV sent, 32 tech. tests === No jobs. <br> GREAT!
-<br><br>
         
 <!-- 
 - ⚡ Fun facts: <br/>
