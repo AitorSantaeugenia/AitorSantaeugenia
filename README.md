@@ -14,17 +14,17 @@
     <h2>I'm a Fullstack Developer & a computer geek</h2>
 </div>
 
-<div style="display:flex; justify-content:space-evenly;">
-    <div>
-        <img alt="GIF" src="https://user-images.githubusercontent.com/14861253/190976945-c6faac71-0195-448d-ad82-247ae24d0169.gif" width="400" align="right" />
+<div style="display:flex;">
+    <div style="display:flex; justify-content:center;" align="center">
+        <img alt="GIF" src="https://user-images.githubusercontent.com/14861253/190976945-c6faac71-0195-448d-ad82-247ae24d0169.gif" width="400" text-align="center" />
     </div>
     
-<div>
 - 📫 How to reach me: <a>aitorsantaeugenia@gmail.com</a> || <a href="https://github.com/AitorSantaeugenia/AitorSantaeugenia/issues/new">here</a> <br>
 - 🌱 MERN & MEAN stack / +5y JavaScript & PHP / Love Unity <br>
 - 👯 I’m looking to collaborate in any project.<br>
 - 🐱 I love cats and 🍕 pizza & 🎥 I'm a movie buff.<br>
 <br><br>
+</div>
         
 <!-- 
 - ⚡ Fun facts: <br/>
@@ -39,9 +39,6 @@
 &nbsp;&nbsp;&nbsp;&nbsp; · Find a job where you can learn & improve daily.
 -->
     
-</div>
-</div>
-
 ---
 
 <div align="center">
@@ -69,7 +66,7 @@
 
 <div align="center">
     
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=aitorsantaeugenia&theme=radical)](https://git.io/streak-stats)
+<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=aitorsantaeugenia&theme=radical)](https://git.io/streak-stats) -->
     
 <img width="273rem" align=top src="https://github-readme-stats.vercel.app/api/top-langs/?username=AitorSantaeugenia&layout=compact&show_icons=true&theme=radical"/>
     <!--  <img width="326rem" align=top src="https://github-readme-stats.vercel.app/api?username=AitorSantaeugenia&show_icons&theme=radical"/> -->
