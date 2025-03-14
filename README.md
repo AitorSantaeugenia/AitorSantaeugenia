@@ -5,7 +5,7 @@
 
 <div align="center">
     <a href="https://www.linkedin.com/in/aitorjsantaeugenia/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-    <a href="https://codepen.io/santaeugeniaJ" target="_blank"><img src="https://img.shields.io/badge/Codepen-%23131417.svg?&style=for-the-badge&logo=codepen&logoColor=white" alt="Codepen"></a>
+    <a href="https://codepen.io/santaeugeniaJ/pens/" target="_blank"><img src="https://img.shields.io/badge/Codepen-%23131417.svg?&style=for-the-badge&logo=codepen&logoColor=white" alt="Codepen"></a>
 </div>
 
 ---
