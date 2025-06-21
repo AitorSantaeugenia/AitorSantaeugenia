@@ -62,7 +62,7 @@
 
 ---
 <div align="center">
-    <h3>The only true wisdom is in knowing you know nothing.</h3>
+    <h3><i>"The only true wisdom is in knowing you know nothing".<i></h3>
 </div>
 
    <div style="display:flex; justify-content:center;" align="center">
