@@ -61,8 +61,22 @@
 </div>
 
 ---
+<div align="center">
+    <h3>Wall of shame:</h3>
+</div>
 
-
+   <div style="display:flex; justify-content:center;" align="center">
+           <img alt="Certificate" src="https://user-images.githubusercontent.com/14861253/125516305-8458e0e0-75d4-4c47-8ea4-8d2cdda69898.png" width="300" text-align="center" />
+           <img alt="Certificate" src="https://user-images.githubusercontent.com/14861253/138575264-e17444f2-d0ac-47ca-bba9-278e586ea376.png" width="300" text-align="center" />
+           <img alt="Certificate" src="https://user-images.githubusercontent.com/14861253/143505781-79bf1958-c890-43ed-ad2f-1efecdb3a36a.png" width="300" text-align="center" />
+           <img alt="Certificate" src="https://user-images.githubusercontent.com/14861253/184704096-90fff60c-f729-4c00-b83e-23232533f5fb.png" width="300" text-align="center" />
+           <img alt="Certificate" src="https://user-images.githubusercontent.com/14861253/192123679-6b6ff96e-21de-49b3-ac8f-ae19dbe8f258.png" width="300" text-align="center" />
+           <img alt="Certificate" src="https://user-images.githubusercontent.com/14861253/197454364-771b0dea-0691-489e-b02b-1469372f9d7c.png" width="300" text-align="center" />
+           <img alt="Certificate" src="https://camo.githubusercontent.com/b99fd2dd10adf85edf96f439c481b2d3f742f9da72e706b70311ab7d97af32ea/68747470733a2f2f692e696d6775722e636f6d2f327655664679532e706e67" width="300" text-align="center" />
+           <img alt="Certificate" src="https://private-user-images.githubusercontent.com/14861253/457542674-3547c850-b137-492a-a530-04bc89bfd40b.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTA0Njk1NzgsIm5iZiI6MTc1MDQ2OTI3OCwicGF0aCI6Ii8xNDg2MTI1My80NTc1NDI2NzQtMzU0N2M4NTAtYjEzNy00OTJhLWE1MzAtMDRiYzg5YmZkNDBiLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA2MjElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNjIxVDAxMjc1OFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWI0NmQ4M2Y3NWI4ZWVhNzU2MmM3N2FlMGNlNGEwMzcwMWFiOGQ5NzdiNzYxZTA0M2U3Yzg1YzQwNjExNWQwODcmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.7ITjBf_N2N1af37DYFbc_939WILiJYdCdHvKXUbf9xA" width="300" text-align="center" />
+    </div>
+    
+---
 
 <div align="center">
     
