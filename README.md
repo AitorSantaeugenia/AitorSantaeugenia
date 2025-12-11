@@ -75,14 +75,8 @@
            <img alt="Certificate" src="https://camo.githubusercontent.com/b99fd2dd10adf85edf96f439c481b2d3f742f9da72e706b70311ab7d97af32ea/68747470733a2f2f692e696d6775722e636f6d2f327655664679532e706e67" width="300" text-align="center" />
     </div>
     
----
-
 <div align="center">
     
-<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=aitorsantaeugenia&theme=radical)](https://git.io/streak-stats) -->
-    
-<img width="273rem" align=top src="https://github-readme-stats.vercel.app/api/top-langs/?username=AitorSantaeugenia&layout=compact&show_icons=true&theme=radical"/>
-    <!--  <img width="326rem" align=top src="https://github-readme-stats.vercel.app/api?username=AitorSantaeugenia&show_icons&theme=radical"/> -->
 <div>
 
 ---
