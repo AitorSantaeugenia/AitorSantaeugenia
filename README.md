@@ -22,7 +22,7 @@
     <br><br>
 - 📫 How to reach me: <a href="mailto:aitorsantaeugenia@gmail.com">aitorsantaeugenia@gmail.com</a> | 
   <a href="https://github.com/AitorSantaeugenia/AitorSantaeugenia/issues/new">here</a> <br>
-- 🌱 MERN & MEAN stack | 5+ years of JavaScript & PHP | Love Unity <br>
+- 🌱 MERN & MEAN stack | 5+ years of JavaScript & PHP | Love Unity for game development <br>
 - 👯 I’m looking to collaborate on any project <br>
 - 🐱 I love cats, pizza 🍕, and movies 🎥 <br>
 </div>
