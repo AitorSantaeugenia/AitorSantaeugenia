@@ -20,10 +20,11 @@
         <img alt="GIF" src="https://user-images.githubusercontent.com/14861253/190976945-c6faac71-0195-448d-ad82-247ae24d0169.gif" width="400" text-align="center" />
     </div>
     <br><br>
-- 📫 How to reach me: <a>aitorsantaeugenia@gmail.com</a> || <a href="https://github.com/AitorSantaeugenia/AitorSantaeugenia/issues/new">here</a> <br>
-- 🌱 MERN & MEAN stack / +5y JavaScript & PHP / Love Unity <br>
-- 👯 I’m looking to collaborate on any project.<br>
-- 🐱 I love cats and 🍕 pizza & 🎥 I'm a movie buff.<br>
+- 📫 How to reach me: <a href="mailto:aitorsantaeugenia@gmail.com">aitorsantaeugenia@gmail.com</a> | 
+  <a href="https://github.com/AitorSantaeugenia/AitorSantaeugenia/issues/new">here</a> <br>
+- 🌱 MERN & MEAN stack | 5+ years of JavaScript & PHP | Love Unity <br>
+- 👯 I’m looking to collaborate on any project <br>
+- 🐱 I love cats, pizza 🍕, and movies 🎥 <br>
 </div>
         
 <!-- 
