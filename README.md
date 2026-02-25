@@ -12,7 +12,7 @@
 ---
 
 <div align="center">
-    <h2>I'm a Fullstack Developer</h2>
+    <h2>Fullstack Developer</h2>
 </div>
 
 <div style="display:flex;">
