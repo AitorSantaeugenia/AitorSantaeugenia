@@ -73,7 +73,6 @@
            <img alt="Certificate" src="https://user-images.githubusercontent.com/14861253/184704096-90fff60c-f729-4c00-b83e-23232533f5fb.png" width="300" text-align="center" />
            <img alt="Certificate" src="https://user-images.githubusercontent.com/14861253/192123679-6b6ff96e-21de-49b3-ac8f-ae19dbe8f258.png" width="300" text-align="center" />
            <img alt="Certificate" src="https://user-images.githubusercontent.com/14861253/197454364-771b0dea-0691-489e-b02b-1469372f9d7c.png" width="300" text-align="center" />
-           <img alt="Certificate" src="https://camo.githubusercontent.com/b99fd2dd10adf85edf96f439c481b2d3f742f9da72e706b70311ab7d97af32ea/68747470733a2f2f692e696d6775722e636f6d2f327655664679532e706e67" width="300" text-align="center" />
     </div>
     
 <div align="center">
